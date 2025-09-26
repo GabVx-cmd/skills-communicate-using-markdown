@@ -6,7 +6,6 @@ This is a short paragraph that describes my commits
 ``` pyhton
 print("Hello, World!")
 ```
-- [] Learn how to develop a Web
-- [] Learn how to develop a App
-- [] Graduate
-- [] Get a Job!
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
